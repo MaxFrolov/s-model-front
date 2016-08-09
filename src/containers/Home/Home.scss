@@ -1,0 +1,16 @@
+@import "../../theme/variables.scss";
+
+.home-main-section {
+  height: 100vh;
+  background: url("./images/main-bg.jpg") no-repeat center;
+  background-size: cover;
+  padding-top: 200px;
+
+  h1 {
+    color: #fff;
+  }
+}
+
+.sphere {
+  height: 100vh;
+}

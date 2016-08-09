@@ -1,0 +1,7 @@
+export App from './App/App'
+export Home from './Home/Home'
+export OurWorks from './OurWorks/OurWorks'
+export AboutUs from './AboutUs/AboutUs'
+export Blog from './Blog/Blog'
+export NotFound from './NotFound/NotFound'
+export Work from './OurWorks/Work/Work'
